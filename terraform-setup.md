@@ -1,4 +1,26 @@
-Terraform on Azure
+# Terraform on Azure
+
+### Document Information
+
+- Created by: Am Aqno
+- Reviewed by: 
+- Capability: Terraform
+- Tools: Linux, Terraform, VSCode
+
+### Version History
+
+| Version | Updated by | Date | Modifications |
+|-------|:-------------|:-----|:-----|
+| 1.0 - Draft | am aqno | 10/06/2020 | |
+
+## Overview
+
+Contains how to set-up Terraform
+
+### General Information
+
+
+### Setup pre-requisites 
 
 Reference URLS:
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
