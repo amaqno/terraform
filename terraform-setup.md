@@ -1,7 +1,5 @@
 Terraform on Azure
 
-Because I will forget..
-
 Reference URLS:
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 terraform.io
