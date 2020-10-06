@@ -5,7 +5,7 @@
 - Created by: Am Aqno
 - Reviewed by: 
 - Capability: Terraform
-- Tools: Linux, Terraform, VSCode
+- Tools: Linux, Terraform, VSCode, PowerShell
 
 ### Version History
 
