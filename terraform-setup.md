@@ -53,7 +53,7 @@ terraform.io
 4. Enable Remote- WSL on Visual Studio Code.
    Remote-WSL: New Window
    
-**Install Terraform**
+###Install Terraform
 1. Download
    wget https://releases.hashicorp.com/terraform/0.13.4/terraform_0.13.4_linux_amd64.zip
    
