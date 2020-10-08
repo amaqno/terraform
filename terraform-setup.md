@@ -15,7 +15,7 @@
 
 ## Overview
 
-Contains how to set-up Terraform
+Set-up Terraform on WSL
 
 ### General Information
 
